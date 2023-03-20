@@ -1,0 +1,15 @@
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\bin\Debug\WinFormUI.exe.config
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\bin\Debug\WinFormUI.exe
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\bin\Debug\WinFormUI.pdb
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\bin\Debug\DemoLibrary.dll
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\bin\Debug\DemoLibrary.pdb
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\obj\Debug\WinFormUI.csproj.AssemblyReference.cache
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\obj\Debug\WinFormUI.csproj.SuggestedBindingRedirects.cache
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\obj\Debug\WinFormUI.Dashboard.resources
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\obj\Debug\WinFormUI.Properties.Resources.resources
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\obj\Debug\WinFormUI.Transactions.resources
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\obj\Debug\WinFormUI.csproj.GenerateResource.cache
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\obj\Debug\WinFormUI.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\obj\Debug\WinFormUI.csproj.CopyComplete
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\obj\Debug\WinFormUI.exe
+C:\Users\wikto\Desktop\GitProjects\events-example\WinFormUI\obj\Debug\WinFormUI.pdb

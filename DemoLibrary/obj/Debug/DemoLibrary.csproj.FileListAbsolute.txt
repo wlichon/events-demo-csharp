@@ -1,0 +1,6 @@
+C:\Users\wikto\Desktop\GitProjects\events-example\DemoLibrary\bin\Debug\DemoLibrary.dll
+C:\Users\wikto\Desktop\GitProjects\events-example\DemoLibrary\bin\Debug\DemoLibrary.pdb
+C:\Users\wikto\Desktop\GitProjects\events-example\DemoLibrary\obj\Debug\DemoLibrary.csproj.AssemblyReference.cache
+C:\Users\wikto\Desktop\GitProjects\events-example\DemoLibrary\obj\Debug\DemoLibrary.csproj.CoreCompileInputs.cache
+C:\Users\wikto\Desktop\GitProjects\events-example\DemoLibrary\obj\Debug\DemoLibrary.dll
+C:\Users\wikto\Desktop\GitProjects\events-example\DemoLibrary\obj\Debug\DemoLibrary.pdb
